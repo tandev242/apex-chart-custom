@@ -26,6 +26,3 @@ npm run test
 ```
 npm run lint
 ```
-# apex-chart-custom
-# apex-chart-custom
-# apex-chart-custom
